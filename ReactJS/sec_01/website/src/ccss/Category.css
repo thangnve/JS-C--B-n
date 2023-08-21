@@ -1,0 +1,29 @@
+#section_type{
+           
+  padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.section_type_01 img{
+margin-top: 18px;
+}
+.section_type_01 h3{
+    background-color: blue;
+    width: 95px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    position: absolute;
+}
+
+.section_type_01 h4{
+    width: 385px;
+    height: 30px;
+    text-align: left;
+ 
+}
+.section_type_01 p{
+    width: 442px;
+    margin-bottom: 10px;
+    text-align: left;
+}

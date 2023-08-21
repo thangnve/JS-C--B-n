@@ -1,0 +1,28 @@
+.section_video_text{
+    width: 250px;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+
+}
+.section_video_text i{
+    font-size: 8px;
+    margin-top: 5px;
+  
+}
+.section_video_img{
+    margin-left: 10px;
+}
+.section_video_text{
+     text-align: left;
+    font-weight: normal;
+}
+.section_video_img h4{
+    width: 280px;
+    font-size: 15px;
+    height: 15px;
+    text-align: left;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+

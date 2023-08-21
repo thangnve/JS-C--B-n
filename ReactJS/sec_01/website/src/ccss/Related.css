@@ -1,0 +1,22 @@
+.related{
+    margin-top: -12px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .related_img{
+     padding: 10px;
+ }
+ .related_content{
+   margin-top: -10px;
+   width: 340px;
+ }
+ .related_content p{
+   margin-top: -10px;
+ }
+ .related_content_chat{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+ }
+ @import url('https://fonts.cdnfonts.com/css/helvetica-neue-5');
